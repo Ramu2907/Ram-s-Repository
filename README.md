@@ -28,8 +28,7 @@ This system leverages **Natural Language Processing (NLP)** and **Machine Learni
 
 1️⃣ Clone the Repository
    ```bash
-   git clone https://github.com/Bharath-nakka/ai-powered-resume-screening-and-ranking-system.git
-   cd ai-powered-resume-screening-and-ranking-system
+   git clone https:(https://github.com/Ramu2907/Ram-s-Repository.git)
    ```  
 
 2️⃣ Install Dependencies
